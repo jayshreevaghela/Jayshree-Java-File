@@ -1,6 +1,9 @@
 package javaproject;
 
 import java.util.HashSet;
+import java.util.Iterator;
+import java.util.Map;
+import java.util.Set;
 
 public class HashSet_Demo {
 	
@@ -17,6 +20,9 @@ public class HashSet_Demo {
 		set.add(10);
 		
 	    System.out.println(set);
+	    
+	    
+	    
 	}
 
 }
